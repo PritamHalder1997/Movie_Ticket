@@ -13,7 +13,7 @@ JDBC driver to be installed:
 [https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16]
 
 Step 1: Clone the project
-Step 2: Go inside MMovieTicket_Booking_Project
+Step 2: Go inside MovieTicket_Booking_Project
 Step 3: rom CMD run javac Main.java
 ```sh
 javac Main.java
