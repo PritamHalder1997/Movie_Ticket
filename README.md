@@ -1,4 +1,4 @@
-# Movie_Ticket
+# Movie Ticket Booking Project
 
 Movie Ticket Booking System for cinema halls  which can be accessed over the internet. Presently most movie lovers book their tickets via Paytm or Bookmyshow mobile apps and websites. This web project will automate the reservation of movie tickets and inquiries about the availability of the seats. Thisjava based protal includes  confirmation for the movie tickets with seat numbers and movie time. This project was developed using Java & MySQL.
 
